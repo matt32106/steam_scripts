@@ -1,6 +1,7 @@
 # steam_scripts
-displays a table with the place (library) where the game is installed and the steam application number:
+find_steam_code_and_disk.sh displays a table with the place (library) where the game is installed and the steam application number:
 ```
+$ ./find_steam_code_and_disk.sh
 Disk: home           Number: 250820       Name: SteamVR
 Disk: home           Number: 1580130      Name: Proton 6.3
 Disk: home           Number: 1391110      Name: Steam Linux Runtime - Soldier
