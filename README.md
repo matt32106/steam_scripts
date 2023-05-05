@@ -1,6 +1,6 @@
 # steam_scripts
 displays a table with the place (library) where the game is installed and the steam application number:
-
+```
 Disk: home           Number: 250820       Name: SteamVR
 Disk: home           Number: 1580130      Name: Proton 6.3
 Disk: home           Number: 1391110      Name: Steam Linux Runtime - Soldier
@@ -18,4 +18,4 @@ Disk: nvme2          Number: 975370       Name: Dwarf Fortress
 Disk: nvme2          Number: 1493710      Name: Proton Experimental
 Disk: nvme2          Number: 2014780      Name: X-Plane 12
 Disk: nvme2          Number: 812140       Name: Assassin's Creed Odyssey
-
+```
