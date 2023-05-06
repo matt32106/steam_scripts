@@ -1,5 +1,7 @@
 # steam_scripts
-find_steam_code_and_disk.sh displays a table with the place (library) where the game is installed and the steam application number:
+Looking for a steam game, can't remember in which library or on which disk it is installed? <br>
+Looking for the steam code of a game? <br>
+`find_steam_code_and_disk.sh` displays a table with the place (library) where the game is installed and the steam application number:
 ```
 $ ./find_steam_code_and_disk.sh
 Disk: home           Number: 250820       Name: SteamVR
